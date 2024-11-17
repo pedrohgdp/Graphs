@@ -1,1 +1,1 @@
-Studies on graphs
+Graph Studies
